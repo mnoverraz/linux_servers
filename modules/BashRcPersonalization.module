@@ -1,0 +1,3 @@
+# Création des aliases et personnalisation du bash
+echo "# Personnalisations apportées par Mathieu Noverraz" >> /home/mnoverraz/.bashrc
+echo "alias ls='ls -la --color=auto'" >> /home/mnoverraz/.bashrc

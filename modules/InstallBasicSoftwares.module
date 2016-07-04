@@ -1,0 +1,3 @@
+# Installation des logiciels de bases
+apt-get install -y sudo ssh git curl
+adduser mnoverraz sudo
